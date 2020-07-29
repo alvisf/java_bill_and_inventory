@@ -15,3 +15,22 @@ We need to crate bill and store it for later use and changes may be made in the 
 ## TechStack
 - Java
 - MySql
+
+## Lessons Learnt 
+- Negotiation with clients
+- Delivery
+- Waterflow model
+ 
+ # ScreenShots
+ 
+![alt text](https://github.com/alvisf/javaBill/blob/master/ScreenShots/javabandi21%20PM%20(1).jpeg?raw=true)
+![alt text](https://github.com/alvisf/javaBill/blob/master/ScreenShots/javabandi21%20PM%20(2).jpeg?raw=true)
+![alt text](https://github.com/alvisf/javaBill/blob/master/ScreenShots/javabandi21%20PM%20(3).jpeg?raw=true)
+![alt text](https://github.com/alvisf/javaBill/blob/master/ScreenShots/javabandi21%20PM.jpeg?raw=true)
+![alt text](https://github.com/alvisf/javaBill/blob/master/ScreenShots/javabandi22%20PM%20(1).jpeg?raw=true)
+![alt text](https://github.com/alvisf/javaBill/blob/master/ScreenShots/javabandi22%20PM%20(2).jpeg?raw=true)
+![alt text](https://github.com/alvisf/javaBill/blob/master/ScreenShots/javabandi22%20PM%20(3).jpeg?raw=true)
+![alt text](https://github.com/alvisf/javaBill/blob/master/ScreenShots/javabandi22%20PM%20(4).jpeg?raw=true)
+![alt text](https://github.com/alvisf/javaBill/blob/master/ScreenShots/javabandi21%20PM%20(1).jpeg?raw=true)
+![alt text](https://github.com/alvisf/javaBill/blob/master/ScreenShots/javabandi22%20PM.jpeg?raw=true)
+![alt text](https://github.com/alvisf/javaBill/blob/master/ScreenShots/javabandi23%20PM.jpeg?raw=true)
